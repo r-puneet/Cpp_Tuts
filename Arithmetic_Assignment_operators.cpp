@@ -42,6 +42,9 @@ int main(){
     {
         cout<<"Choose operator from the given choices";
     }
+
+    cout<<endl;
+
     return 0;
     
 }
